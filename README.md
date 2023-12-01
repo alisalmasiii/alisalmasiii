@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alisalmasiii
 - 👀 I’m interested in Deep Learning & Computer Vision
-- 🌱 I’m currently learning DeepLearning and Machine Vision
-- 💞️ I’m looking for Ph.D. position in these areas 
+- 🌱 There's a lot to learn
+- 💞️ I’m looking forward to doing my Ph.D. in these areas 
 - 📫  reach me @ alisalmasi75@gmail.com
 
 <!---
