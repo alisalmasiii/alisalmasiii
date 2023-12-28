@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @alisalmasiii
 - 👀 I’m interested in Deep Learning & Computer Vision
 - 🌱 There's a lot to learn
-- 💞️ I’m looking forward to doing my Ph.D. in these areas 
-- 📫  reach me @ alisalmasi75@gmail.com
+- 💞️ I’m looking forward to doing my Ph.D. in these areas
 
 <!---
 alisalmasiii/alisalmasiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
